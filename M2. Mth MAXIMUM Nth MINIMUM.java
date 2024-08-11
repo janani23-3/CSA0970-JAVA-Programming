@@ -6,7 +6,6 @@ class MthMaxNthMin {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Input array of elements
         System.out.println("Enter the number of elements in the array:");
         int size = scanner.nextInt();
         int[] array = new int[size];
